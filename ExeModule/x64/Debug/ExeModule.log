@@ -1,0 +1,6 @@
+﻿  Routines.cpp
+d:\z\桌面\program\usermodemodules\exemodule\debug.h(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\z\桌面\program\usermodemodules\exemodule\debug.h(2): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+d:\z\桌面\program\usermodemodules\exemodule\routines.cpp(93): warning C4715: “MessageRoutine::ParseMessage”: 不是所有的控件路径都返回值
+  ExeModule.vcxproj -> D:\Z\桌面\Program\UserModeModules\x64\Debug\ExeModule.exe
+  ExeModule.vcxproj -> D:\Z\桌面\Program\UserModeModules\x64\Debug\ExeModule.pdb (Full PDB)
